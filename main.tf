@@ -1,3 +1,3 @@
 variable "server_name" {
-  default = "VM001"
+  default = "VM003"
 }
